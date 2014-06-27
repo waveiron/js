@@ -1,0 +1,20 @@
+#wrapper {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #ddd;
+  width: 70%;
+}
+
+.thumb {
+  float: left;
+  margin: 1%;
+  width: 23%;
+  min-width: 150px;
+  background: #aaa;
+}
+img {
+  width: 100%;
+  display: block;
+
+}
